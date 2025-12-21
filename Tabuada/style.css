@@ -1,0 +1,30 @@
+header {
+font-style:italic;
+color: rgba(192, 21, 21, 0.459);
+}
+
+body {
+ background-color: bisque;
+}
+
+h1 {
+text-align: center;
+
+}
+
+section {
+
+    background: rgba(255, 0, 0, 0.473);
+    width: 500px; /*LARGURA*/
+    padding: 15px; /*PREENCHIMENTO*/
+    border-radius: 10px; /*RAIO DA BORDA*/
+    margin: auto; /*MARGEM*/
+    text-align: center;
+    
+    
+
+}
+
+footer {
+    text-align: center;
+}
